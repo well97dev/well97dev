@@ -1,5 +1,5 @@
 ## 🚀 Sobre mim
-Eu sou um desenvolvedor Front-end
+EU SOU UM DESENVOLVEDOR FRONT-END ESPECIALISTA APLICAÇÕES WEB
 
 
 ## 🌐 Socials:
