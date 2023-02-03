@@ -2,6 +2,7 @@
   <kbd>Developer Front-end</kbd>
   
   <h1>Hi I'm Wellington Pinheiro 👨‍💻</h1><br>
+  <p>- I'm currently studying React</p>
   
 
 # 💻 Tech Stack:
