@@ -3,6 +3,8 @@
   
   <h1>Hi I'm Wellington Pinheiro 👨‍💻</h1><br>
   <p>- I'm currently studying React</p>
+ 
+  <p> I believe that technology can change the world and I am always looking for new ways to contribute to this path. When I'm not coding, I like to travel and explore new cultures and cook delicious dishes. Welcome to my world of technology and adventures!" </p>
   
 
 # 💻 Tech Stack:
