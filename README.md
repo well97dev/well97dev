@@ -6,6 +6,15 @@
  
   <p> I believe that technology can change the world and I am always looking for new ways to contribute to this path. When I'm not coding, I like to travel and explore new cultures and cook delicious dishes. Welcome to my world of technology and adventures!" </p>
   
+  </div>
+
+<div align="center">
+  <a href="https://github.com/well97dev">
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=well97dev&layout=compact&langs_count=7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
+     
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Julianadev&hide=html&layout=compac&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
+  
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
