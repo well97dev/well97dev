@@ -13,7 +13,7 @@
  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=well97dev&layout=compact&langs_count=7&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
      
-  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=Julianadev&hide=html&layout=compac&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height= "180em" src="https://github-readme-stats.vercel.app/api?username=well97dev&hide=html&layout=compac&theme=radical)](https://github.com/anuraghazra/github-readme-stats)"/>
   
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
